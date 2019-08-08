@@ -1,0 +1,10 @@
+.name{
+margin: 30px;
+ width: 700px;
+height: 50px;
+background-color: gray;
+border: 3px solid black;
+text-align: center;
+padding-top: 30px;
+padding-bottom: 20px;
+}
